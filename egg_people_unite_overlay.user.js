@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         r/OMORI place template
 // @namespace    http://tampermonkey.net/
-// @version      69
-// @description  OMORI WILL NOT SUCCUMB
+// @version      v1.0.1
+// @description  OMORI WILL NOT SUCCUMB | PLEASE CONTACT THE DAMN DISCORD / SUBMIT COMMITS IF YOU NEED TO EDIT THIS!!!!!!!!
 // @author       forked from a whole bunch of other people 
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
