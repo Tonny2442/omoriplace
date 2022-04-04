@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/OMORI place template
 // @namespace    http://tampermonkey.net/
-// @version      v1.0.1
+// @version      v1.0.2
 // @description  OMORI WILL NOT SUCCUMB | PLEASE CONTACT THE DAMN DISCORD / SUBMIT COMMITS IF YOU NEED TO EDIT THIS!!!!!!!!
 // @author       forked from a whole bunch of other people 
 // @match        https://hot-potato.reddit.com/embed*
